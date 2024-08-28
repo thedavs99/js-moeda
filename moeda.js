@@ -1,3 +1,3 @@
 export default {
-    moeda: 'BRL'
+    moeda: 'VZL'
 }
